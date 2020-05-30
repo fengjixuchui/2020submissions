@@ -3,10 +3,10 @@
   {
    "lastAccept": 1590810797,
    "pos": 1,
-   "score": 2283,
+   "score": 2268,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590779815
     },
     "androids_encryption": {
@@ -14,7 +14,7 @@
      "time": 1590776763
     },
     "dr_manhattan": {
-     "points": 406,
+     "points": 394,
      "time": 1590807018
     },
     "omnitmizer": {
@@ -39,10 +39,10 @@
   {
    "lastAccept": 1590804499,
    "pos": 2,
-   "score": 1670,
+   "score": 1655,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590796353
     },
     "androids_encryption": {
@@ -54,7 +54,7 @@
      "time": 1590804499
     },
     "dr_manhattan": {
-     "points": 406,
+     "points": 394,
      "time": 1590786588
     },
     "lost_qkeys": {
@@ -71,10 +71,10 @@
   {
    "lastAccept": 1590806002,
    "pos": 3,
-   "score": 1559,
+   "score": 1544,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590799520
     },
     "at_your_command": {
@@ -82,7 +82,7 @@
      "time": 1590799212
     },
     "dr_manhattan": {
-     "points": 406,
+     "points": 394,
      "time": 1590801313
     },
     "matrona": {
@@ -127,14 +127,14 @@
   {
    "lastAccept": 1590816766,
    "pos": 5,
-   "score": 1219,
+   "score": 1204,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590791608
     },
     "dr_manhattan": {
-     "points": 406,
+     "points": 394,
      "time": 1590816766
     },
     "sound_maze": {
@@ -151,10 +151,10 @@
   {
    "lastAccept": 1590794891,
    "pos": 6,
-   "score": 1153,
+   "score": 1150,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590786248
     },
     "at_your_command": {
@@ -221,8 +221,32 @@
    "team": "STT"
   },
   {
-   "lastAccept": 1590814476,
+   "lastAccept": 1590823921,
    "pos": 9,
+   "score": 1044,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 260,
+     "time": 1590823921
+    },
+    "at_your_command": {
+     "points": 340,
+     "time": 1590813652
+    },
+    "dr_manhattan": {
+     "points": 394,
+     "time": 1590820914
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590815055
+    }
+   },
+   "team": "10sec"
+  },
+  {
+   "lastAccept": 1590814476,
+   "pos": 10,
    "score": 959,
    "taskStats": {
     "lost_qkeys": {
@@ -242,11 +266,11 @@
   },
   {
    "lastAccept": 1590822541,
-   "pos": 10,
-   "score": 930,
+   "pos": 11,
+   "score": 918,
    "taskStats": {
     "dr_manhattan": {
-     "points": 406,
+     "points": 394,
      "time": 1590804734
     },
     "s1_protocol": {
@@ -262,11 +286,11 @@
   },
   {
    "lastAccept": 1590789084,
-   "pos": 11,
-   "score": 829,
+   "pos": 12,
+   "score": 826,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590780251
     },
     "androids_encryption": {
@@ -286,11 +310,11 @@
   },
   {
    "lastAccept": 1590817321,
-   "pos": 12,
-   "score": 829,
+   "pos": 13,
+   "score": 826,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590802158
     },
     "androids_encryption": {
@@ -310,11 +334,11 @@
   },
   {
    "lastAccept": 1590820941,
-   "pos": 13,
-   "score": 829,
+   "pos": 14,
+   "score": 826,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590794366
     },
     "androids_encryption": {
@@ -334,7 +358,7 @@
   },
   {
    "lastAccept": 1590803025,
-   "pos": 14,
+   "pos": 15,
    "score": 825,
    "taskStats": {
     "at_your_command": {
@@ -353,32 +377,12 @@
    "team": "Balsn"
   },
   {
-   "lastAccept": 1590820914,
-   "pos": 15,
-   "score": 796,
-   "taskStats": {
-    "at_your_command": {
-     "points": 340,
-     "time": 1590813652
-    },
-    "dr_manhattan": {
-     "points": 406,
-     "time": 1590820914
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590815055
-    }
-   },
-   "team": "10sec"
-  },
-  {
    "lastAccept": 1590783556,
    "pos": 16,
-   "score": 766,
+   "score": 763,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590777115
     },
     "transcendence_rebellion": {
@@ -393,8 +397,28 @@
    "team": "ID-10-T"
   },
   {
-   "lastAccept": 1590796207,
+   "lastAccept": 1590823812,
    "pos": 17,
+   "score": 704,
+   "taskStats": {
+    "a_payload_to_rule_them_all": {
+     "points": 260,
+     "time": 1590815516
+    },
+    "dr_manhattan": {
+     "points": 394,
+     "time": 1590823812
+    },
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590815549
+    }
+   },
+   "team": "GreyFang"
+  },
+  {
+   "lastAccept": 1590796207,
+   "pos": 18,
    "score": 661,
    "taskStats": {
     "androids_encryption": {
@@ -414,11 +438,11 @@
   },
   {
    "lastAccept": 1590821099,
-   "pos": 18,
-   "score": 653,
+   "pos": 19,
+   "score": 650,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590821099
     },
     "at_your_command": {
@@ -434,7 +458,7 @@
   },
   {
    "lastAccept": 1590789659,
-   "pos": 19,
+   "pos": 20,
    "score": 609,
    "taskStats": {
     "androids_encryption": {
@@ -454,7 +478,7 @@
   },
   {
    "lastAccept": 1590795801,
-   "pos": 20,
+   "pos": 21,
    "score": 609,
    "taskStats": {
     "androids_encryption": {
@@ -474,7 +498,7 @@
   },
   {
    "lastAccept": 1590805911,
-   "pos": 21,
+   "pos": 22,
    "score": 609,
    "taskStats": {
     "androids_encryption": {
@@ -494,7 +518,7 @@
   },
   {
    "lastAccept": 1590806992,
-   "pos": 22,
+   "pos": 23,
    "score": 609,
    "taskStats": {
     "androids_encryption": {
@@ -514,7 +538,7 @@
   },
   {
    "lastAccept": 1590813189,
-   "pos": 23,
+   "pos": 24,
    "score": 609,
    "taskStats": {
     "androids_encryption": {
@@ -534,7 +558,7 @@
   },
   {
    "lastAccept": 1590816933,
-   "pos": 24,
+   "pos": 25,
    "score": 609,
    "taskStats": {
     "androids_encryption": {
@@ -554,7 +578,7 @@
   },
   {
    "lastAccept": 1590794070,
-   "pos": 25,
+   "pos": 26,
    "score": 566,
    "taskStats": {
     "androids_encryption": {
@@ -574,7 +598,7 @@
   },
   {
    "lastAccept": 1590791753,
-   "pos": 26,
+   "pos": 27,
    "score": 503,
    "taskStats": {
     "transcendence_rebellion": {
@@ -590,11 +614,11 @@
   },
   {
    "lastAccept": 1590789918,
-   "pos": 27,
-   "score": 489,
+   "pos": 28,
+   "score": 486,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590789918
     },
     "androids_encryption": {
@@ -610,11 +634,11 @@
   },
   {
    "lastAccept": 1590791149,
-   "pos": 28,
-   "score": 489,
+   "pos": 29,
+   "score": 486,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590780385
     },
     "androids_encryption": {
@@ -630,11 +654,11 @@
   },
   {
    "lastAccept": 1590794225,
-   "pos": 29,
-   "score": 489,
+   "pos": 30,
+   "score": 486,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590794225
     },
     "androids_encryption": {
@@ -650,11 +674,11 @@
   },
   {
    "lastAccept": 1590795128,
-   "pos": 30,
-   "score": 489,
+   "pos": 31,
+   "score": 486,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590795128
     },
     "androids_encryption": {
@@ -670,11 +694,11 @@
   },
   {
    "lastAccept": 1590798050,
-   "pos": 31,
-   "score": 489,
+   "pos": 32,
+   "score": 486,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590798050
     },
     "androids_encryption": {
@@ -690,11 +714,11 @@
   },
   {
    "lastAccept": 1590798146,
-   "pos": 32,
-   "score": 489,
+   "pos": 33,
+   "score": 486,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590789042
     },
     "androids_encryption": {
@@ -710,11 +734,11 @@
   },
   {
    "lastAccept": 1590798405,
-   "pos": 33,
-   "score": 489,
+   "pos": 34,
+   "score": 486,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590793574
     },
     "androids_encryption": {
@@ -730,11 +754,11 @@
   },
   {
    "lastAccept": 1590801821,
-   "pos": 34,
-   "score": 489,
+   "pos": 35,
+   "score": 486,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590779277
     },
     "androids_encryption": {
@@ -750,11 +774,11 @@
   },
   {
    "lastAccept": 1590815729,
-   "pos": 35,
-   "score": 489,
+   "pos": 36,
+   "score": 486,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590815729
     },
     "androids_encryption": {
@@ -770,11 +794,11 @@
   },
   {
    "lastAccept": 1590780443,
-   "pos": 36,
-   "score": 439,
+   "pos": 37,
+   "score": 436,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590779602
     },
     "androids_encryption": {
@@ -786,7 +810,7 @@
   },
   {
    "lastAccept": 1590798712,
-   "pos": 37,
+   "pos": 38,
    "score": 435,
    "taskStats": {
     "tukro": {
@@ -798,7 +822,7 @@
   },
   {
    "lastAccept": 1590817822,
-   "pos": 38,
+   "pos": 39,
    "score": 390,
    "taskStats": {
     "at_your_command": {
@@ -814,11 +838,11 @@
   },
   {
    "lastAccept": 1590778653,
-   "pos": 39,
-   "score": 313,
+   "pos": 40,
+   "score": 310,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590778653
     },
     "transcendence_rebellion": {
@@ -830,11 +854,11 @@
   },
   {
    "lastAccept": 1590786139,
-   "pos": 40,
-   "score": 313,
+   "pos": 41,
+   "score": 310,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590786041
     },
     "transcendence_rebellion": {
@@ -846,11 +870,11 @@
   },
   {
    "lastAccept": 1590786933,
-   "pos": 41,
-   "score": 313,
+   "pos": 42,
+   "score": 310,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590786933
     },
     "transcendence_rebellion": {
@@ -862,11 +886,11 @@
   },
   {
    "lastAccept": 1590793066,
-   "pos": 42,
-   "score": 313,
+   "pos": 43,
+   "score": 310,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590793066
     },
     "transcendence_rebellion": {
@@ -878,11 +902,11 @@
   },
   {
    "lastAccept": 1590793419,
-   "pos": 43,
-   "score": 313,
+   "pos": 44,
+   "score": 310,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590793419
     },
     "transcendence_rebellion": {
@@ -894,11 +918,11 @@
   },
   {
    "lastAccept": 1590793856,
-   "pos": 44,
-   "score": 313,
+   "pos": 45,
+   "score": 310,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590793856
     },
     "transcendence_rebellion": {
@@ -909,28 +933,12 @@
    "team": "pwnPrime"
   },
   {
-   "lastAccept": 1590815549,
-   "pos": 45,
-   "score": 313,
-   "taskStats": {
-    "a_payload_to_rule_them_all": {
-     "points": 263,
-     "time": 1590815516
-    },
-    "transcendence_rebellion": {
-     "points": 50,
-     "time": 1590815549
-    }
-   },
-   "team": "GreyFang"
-  },
-  {
    "lastAccept": 1590781775,
    "pos": 46,
-   "score": 263,
+   "score": 260,
    "taskStats": {
     "a_payload_to_rule_them_all": {
-     "points": 263,
+     "points": 260,
      "time": 1590781775
     }
    },
@@ -4531,6 +4539,42 @@
     }
    },
    "team": "Four&Six"
+  },
+  {
+   "lastAccept": 1590823575,
+   "pos": 335,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590823575
+    }
+   },
+   "team": "dididi"
+  },
+  {
+   "lastAccept": 1590823833,
+   "pos": 336,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590823833
+    }
+   },
+   "team": "Tea Time"
+  },
+  {
+   "lastAccept": 1590823942,
+   "pos": 337,
+   "score": 50,
+   "taskStats": {
+    "transcendence_rebellion": {
+     "points": 50,
+     "time": 1590823942
+    }
+   },
+   "team": "VikasGola"
   }
  ],
  "tasks": [
