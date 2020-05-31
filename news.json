@@ -66,5 +66,25 @@
  {
   "msg": "12 hours left, gogogod!",
   "time": 1590899881
+ },
+ {
+  "msg": "[Watchers] we just released another file for watchers source code since we think can be useful",
+  "time": 1590913777
+ },
+ {
+  "msg": "Feedback form, please help us to make Pwn2Win even better: https://bit.ly/2ZSh55B",
+  "time": 1590917910
+ },
+ {
+  "msg": "[Hardware Trojan] If you're stuck, let us know your progress before we release a fair hint. Please pm thotypous on irc.",
+  "time": 1590925723
+ },
+ {
+  "msg": "If you are a member of the Kuality team, please pm gnx at freenode.",
+  "time": 1590928187
+ },
+ {
+  "msg": "[Hardware Trojan] If you want to skip the trouble of diffing the trojaned and non-trojaned version, look for the signals introduced by the trojan. Their name starts with trig.",
+  "time": 1590931544
  }
 ]
